@@ -1,4 +1,6 @@
 # julia-i18n
+
+[![Join the chat at https://gitter.im/Julia-i18n/julia-i18n](https://badges.gitter.im/Julia-i18n/julia-i18n.svg)](https://gitter.im/Julia-i18n/julia-i18n?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Julia language internationalization and localization project.
 
 # Roadmap
